@@ -1,6 +1,6 @@
 from core import SoundStorm, SoundStormTrainer, ConformerWrapper
 import torch
-from speechtokenizer import SpeechTokenizer
+
 
 if __name__ == '__main__':
 
